@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{46188610A87A9B25}BadG_Book/data/background_book.png"
+ Author "desktop-m275k30"
+ ChangeDate -333746952
+ Configurations {
+  PAAResourceClass PC {
+   SourceFile "background_book.paa"
+  }
+  PAAResourceClass XBOX_ONE : PC {
+  }
+  PAAResourceClass PS4 : PC {
+  }
+  PAAResourceClass LINUX : PC {
+  }
+ }
+}
